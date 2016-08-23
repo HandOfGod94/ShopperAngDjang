@@ -295,6 +295,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "shopper_rest/models.py",
+			"settings":
+			{
+				"buffer_size": 98,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -417,10 +425,13 @@
 	},
 	"expanded_folders":
 	[
-		"/D/python-workspace/shopper"
+		"/D/python-workspace/shopper",
+		"/D/python-workspace/shopper/shopper_rest"
 	],
 	"file_history":
 	[
+		"/D/python-workspace/shopper/.gitignore",
+		"/D/python-workspace/shopper/shopper.sublime-project",
 		"/D/angularjs-workspace/angular-shopper/angular-seed/app/index.html",
 		"/D/angularjs-workspace/angular-shopper/angular-seed/app/app.js",
 		"/D/angularjs-workspace/angular-shopper/angular-seed/app/components/product-sale-table/product-sale-table.template.html",
@@ -563,8 +574,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "shopper_rest/models.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 98,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
