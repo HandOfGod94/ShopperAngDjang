@@ -1,0 +1,653 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"comp",
+				"component	(retailer-info.component.js)"
+			],
+			[
+				"com",
+				"components"
+			],
+			[
+				"reta",
+				"retailer-info"
+			],
+			[
+				"cont",
+				"contactNo	(retailer-info.component.js)"
+			],
+			[
+				"control",
+				"controller	AngularJS"
+			],
+			[
+				"mod",
+				"module	(retialer-info.module.js)"
+			],
+			[
+				"Prod",
+				"ProductSaleTableController	(product-sale-table.component.js)"
+			],
+			[
+				"prod",
+				"product-sale-table"
+			],
+			[
+				"produ",
+				"productSaleTable	(product-sale-table.module.js)"
+			],
+			[
+				"sale",
+				"salePercent	(product-sale-table.component.js)"
+			],
+			[
+				"product",
+				"products	(product-sale-table.component.js)"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"sael",
+				"saleCategory"
+			],
+			[
+				"contro",
+				"controller	AngularJS"
+			],
+			[
+				"ang",
+				"angular	AngularJS"
+			],
+			[
+				"productsa",
+				"productSaleTable	(product-sale-table.module.js)"
+			],
+			[
+				"pie",
+				"pie-chart"
+			],
+			[
+				"pei",
+				"pie-chart	(pie-chart.component.js)"
+			],
+			[
+				"text",
+				"text-center	(analysis.jsp)"
+			],
+			[
+				"col",
+				"col-md-4"
+			],
+			[
+				"autocom",
+				"auto_complete_selector	(Preferences.sublime-settings)"
+			],
+			[
+				"ad",
+				"admin"
+			],
+			[
+				"required",
+				"required"
+			],
+			[
+				"valid",
+				"validate_type_of_user"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"Val",
+				"ValidationError"
+			],
+			[
+				"EN",
+				"END_USER	(constants.py)"
+			],
+			[
+				"vali",
+				"validate_gender	function"
+			],
+			[
+				"valdi",
+				"validate_is_active"
+			],
+			[
+				"ut",
+				"utils	module"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"char",
+				"CharField	class"
+			],
+			[
+				"Model",
+				"Model	class"
+			],
+			[
+				"for",
+				"for	for"
+			],
+			[
+				"templa",
+				"templatetags	module"
+			],
+			[
+				"render",
+				"render_template	Flask"
+			],
+			[
+				"user",
+				"user_comment	function"
+			],
+			[
+				"use",
+				"user_comment	(urls.py)"
+			],
+			[
+				"url",
+				"url	url"
+			],
+			[
+				"view",
+				"views	module"
+			],
+			[
+				"line",
+				"line_padding_bottom	(Preferences.sublime-settings)"
+			],
+			[
+				"font",
+				"font_face	(Preferences.sublime-settings)"
+			],
+			[
+				"boot",
+				"bootstrap.min.js	(userComment.jsp)"
+			],
+			[
+				"st",
+				"style.css	(userComment.jsp)"
+			],
+			[
+				"D",
+				"DOCTYPE	(userComment.jsp)"
+			],
+			[
+				"boo",
+				"bootstrap.min.js	(index.jsp)"
+			],
+			[
+				"STATIC",
+				"STATIC_ROOT"
+			],
+			[
+				"ind",
+				"index	function"
+			],
+			[
+				"ret",
+				"return	keyword"
+			],
+			[
+				"Htp",
+				"HttpRequest	class"
+			],
+			[
+				"htt",
+				"http	module"
+			],
+			[
+				"def",
+				"defs	Method"
+			],
+			[
+				"ann",
+				"anaconda_linting	(Anaconda.sublime-settings)"
+			],
+			[
+				"ur",
+				"url	(urls.py)"
+			],
+			[
+				"con",
+				"conf	module"
+			],
+			[
+				"pep",
+				"pep8_ignore	(Anaconda.sublime-settings)"
+			],
+			[
+				"act",
+				"active	(user comment.html)"
+			],
+			[
+				"get",
+				"get	(user comment.html)"
+			],
+			[
+				"some",
+				"someArgs"
+			],
+			[
+				"bt",
+				"btn-default"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"rad",
+				"radio-inline"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"nva",
+				"navbar"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"matr",
+				"matrix2"
+			],
+			[
+				"s",
+				"split"
+			],
+			[
+				"matri",
+				"matrix1"
+			],
+			[
+				"c",
+				"c_sal"
+			],
+			[
+				"in",
+				"input	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"last_filter": "re",
+		"selected_items":
+		[
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"syntaxangu",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"set syntax angu",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"set synt html",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"aut",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"show",
+				"Anaconda: Show error list"
+			],
+			[
+				"",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"djan",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"django",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"showe",
+				"Anaconda: Show error list"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package contring ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)  "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/python-workspace/shopper"
+	],
+	"file_history":
+	[
+		"/D/angularjs-workspace/angular-shopper/angular-seed/app/index.html",
+		"/D/angularjs-workspace/angular-shopper/angular-seed/app/app.js",
+		"/D/angularjs-workspace/angular-shopper/angular-seed/app/components/product-sale-table/product-sale-table.template.html",
+		"/D/angularjs-workspace/angular-shopper/angular-seed/app/components/retailer-info/retailer-info.component.js",
+		"/D/angularjs-workspace/angular-shopper/angular-seed/app/static-components/navbar.html",
+		"/D/angularjs-workspace/angular-shopper/angular-seed/app/components/navbar/navabar.template.html",
+		"/D/angularjs-workspace/angular-shopper/angular-seed/app/components/retailer-info/retailer-info.module.js",
+		"/D/angularjs-workspace/angular-shopper/angular-seed/app/components/retailer-info/retailer-info.template.html",
+		"/D/Workspace/Shopper/WebContent/jsp/shop-manage/analysis.jsp",
+		"/D/angularjs-workspace/angular-shopper/angular-seed/app/components/retailer-info/retialer-info.module.js",
+		"/D/angularjs-workspace/angular-shopper/angular-seed/app/components/product-sale-table/product-sale-table.module.js",
+		"/D/angularjs-workspace/angular-shopper/angular-seed/app/components/product-sale-table/product-sale-table.component.js",
+		"/D/angularjs-workspace/angular-shopper/angular-seed/app/components/product-sale-table",
+		"/D/angularjs-workspace/angular-shopper/angular-seed/app/components/pie-chart/pie-chart.component.js",
+		"/D/angularjs-workspace/angular-shopper/angular-seed/app/components/pie-chart/pie-chart.template.html",
+		"/D/angularjs-workspace/angular-shopper/angular-seed/app/components/pie-chart/pie-chart.module.js",
+		"/C/Users/1021124/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/angularjs-workspace/angular-shopper/angular-seed/bower.json",
+		"/C/Users/1021124/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/angularjs-workspace/chart/chart/chart.js",
+		"/D/angularjs-workspace/chart/chart/index.htm",
+		"/D/angularjs-workspace/angular-shopper/angular-seed/app/app.css",
+		"/D/python-workspace/jda/shopper/models.py",
+		"/D/python-workspace/jda/shopper/views.py",
+		"/D/python-workspace/jda/shopper/admin.py",
+		"/D/python-workspace/jda/shopper/constants.py",
+		"/D/python-workspace/jda/shopper/templates/user_comment.html",
+		"/D/python-workspace/jda/jda/settings.py",
+		"/D/python-workspace/jda/shopper/templates/navbar_generic.html",
+		"/D/python-workspace/jda/shopper/templatetags/jda_extras.py",
+		"/D/python-workspace/jda/shopper/templatetags/__init__.py",
+		"/D/python-workspace/jda/shopper/templatetags/jad_extras.py",
+		"/D/python-workspace/jda/shopper/urls.py",
+		"/D/python-workspace/jda/jda/urls.py",
+		"/D/python-workspace/jda/shopper/templates/index.html",
+		"/D/Workspace/Shopper/WebContent/jsp/userComment.jsp",
+		"/D/Workspace/Shopper/WebContent/jsp/index.jsp",
+		"/D/Softwares/jda/studio/projects/bookstore/data/users_data.xml",
+		"/D/Softwares/jda/studio/projects/bookstore/log/server.log",
+		"/D/Softwares/jda/studio/projects/bookstore/data/user_data.xml",
+		"/C/Users/1021124/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/1021124/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/D/python-workspace/jda/manage.py",
+		"/D/python-workspace/jda/jda-project.sublime-project",
+		"/C/Program Files/Sublime Text 3/sampledata.xml",
+		"/C/Oracle/12.1.0.2_SE/NETWORK/ADMIN/tnsnames.ora",
+		"/D/Softwares/jda/studio/projects/bookstore/db/schema.sql",
+		"/C/Oracle/12.1.0.2_SE/NETWORK/ADMIN/SAMPLE/tnsnames.oRA",
+		"/D/shriya ui/form-validaiton.html",
+		"/D/shriya ui/shopId.html",
+		"/D/shriya ui/struct/struct/Analysis.html",
+		"/D/shriya ui/struct/struct/user comment.html",
+		"/D/shriya ui/struct/struct/transaction.html",
+		"/D/shriya ui/struct/struct/Main.html",
+		"/D/shriya ui/user comment.html",
+		"/D/shriya ui/transaction.html",
+		"/C/Users/1021124/mainclass.java",
+		"/D/shriya ui/Analysis.html",
+		"/C/Users/1021124/Documents/evenorodd/src/semantic_analysis/TrieNode.java",
+		"/C/Users/1021124/Documents/evenorodd/src/semantic_analysis/Trie.java",
+		"/C/Users/1021124/Documents/evenorodd/src/semantic_analysis/mainclass.java",
+		"/C/Users/1021124/Documents/chart.html",
+		"/C/Users/1021124/user comment.html",
+		"/C/Users/1021124/Documents/display.java",
+		"/C/Users/1021124/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/GPBDJ416/display.java",
+		"/C/Users/1021124/simplejs.html",
+		"/C/Users/1021124/main.js",
+		"/C/Users/1021124/Documents/UserComment.jsp",
+		"/C/Users/1021124/simple.js",
+		"/C/Users/1021124/Desktop/PROJECT/project/hibernate.cfg.xml",
+		"/C/Users/1021124/Desktop/PROJECT/project/thirdpage.htm",
+		"/D/Shopper/src/com/shopper/beans/UserCommentBean.java",
+		"/D/Shopper/WebContent/UserComment.jsp",
+		"/D/Shopper/src/com/shopper/ProductCRUD.java",
+		"/C/Users/1021124/Desktop/PROJECT/UserComment.jsp",
+		"/C/Users/1021124/Desktop/PROJECT/project/firstpage.htm",
+		"/C/Users/1021124/Desktop/PROJECT/project/2ndpage.htm",
+		"/D/Shopper/src/com/shopper/ConnectionManager.java",
+		"/D/Shopper/src/com/shopper/beans/ProductBean.java",
+		"/C/Users/1021124/Downloads/Spring-Final/1.AOP.01-Before-After/src/com/namdev/aop/MyInterFace.java",
+		"/C/Users/1021124/Downloads/Spring-Final/1.AOP.01-Before-After/src/com/namdev/aop/MyWelcomeAdvice.java",
+		"/C/Users/1021124/Downloads/Spring-Final/1.AOP.01-Before-After/src/com/namdev/aop/OurLogic.java",
+		"/C/Users/1021124/Downloads/hello.py",
+		"/C/Users/1021124/Downloads/Spring-Final/1.AOP.01-Before-After/src/spconfig.xml",
+		"/C/Users/1021124/Desktop/shopping_data.sql",
+		"/C/Users/1021124/Desktop/shop.sql",
+		"/C/Users/1021124/Desktop/user_comment.sql",
+		"/C/Users/1021124/Desktop/product.sql",
+		"/C/Users/1021124/Documents/matrix_mul.py",
+		"/C/Users/1021124/Documents/project2/web.xml",
+		"/C/Users/1021124/Documents/plsql9.sql",
+		"/C/Users/1021124/Documents/project/MySQLAccess.java",
+		"/C/Users/1021124/Documents/plsql7.sql",
+		"/C/Users/1021124/Documents/plsql8.sql",
+		"/C/Users/1021124/Documents/plsql5.sql",
+		"/C/Users/1021124/Documents/plsql6.sql",
+		"/C/Users/1021124/Documents/plsql4.sql",
+		"/C/Users/1021124/Documents/plsql3.sql",
+		"/C/Users/1021124/Documents/plsql2.sql",
+		"/C/Users/1021124/Documents/plsql1.sql",
+		"/C/Users/1021124/Documents/assigne.html",
+		"/C/Users/1021124/Downloads/JavaExamples/AccountDanger.java",
+		"/C/Users/1021124/Downloads/JavaExamples/io/example/FileDemo.java",
+		"/C/Users/1021124/Downloads/JavaExamples/FinallyDemo.java",
+		"/C/Users/1021124/Downloads/JavaExamples/HashMapDemo.java"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"productName",
+			"BOOK"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"name"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "shopper.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
